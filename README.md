@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python programming language 
 - 🌱 I’m currently learning Django and Flask framework
 - 💞️ I’m looking to collaborate on Python based projects 
-- 📫 How to reach me, my email is fisikosnomos@gmail.com
+- 📫 How to reach me, my email is @gmail.com
 
 <!---
 lkonst/lkonst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
