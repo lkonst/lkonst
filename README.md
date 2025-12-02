@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lkonst
-- 👀 I’m interested in Python programming language 
-- 🌱 I’m currently learning Django and Flask framework
-- 💞️ I’m looking to collaborate on Python based projects 
+- 👀 I’m interested in the Python programming language 
+- 🌱 I’m currently implementing projects in the Django and Flask frameworks
+- 💞️ I’m looking to collaborate on Python-based projects 
 - 📫 How to reach me, my email is @gmail.com
 
 <!---
